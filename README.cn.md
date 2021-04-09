@@ -62,12 +62,12 @@ X-Core SoC外设：
 
 ## 开发板
 
-* [Perf-V FPGA开发板](http://perfv.org/)
+* [Perf-V FPGA开发板](https://www.rvboards.org/)
 
 ![Perf-V FPGA开发板图片](http://perfv.org/images/home/board_intro.png)
 
 ## 交流讨论
 
 - QQ群：806854399
-- 论坛：http://forum.perfv.org/
+- 论坛：https://www.rvboards.org/forum/cn/
 

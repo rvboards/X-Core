@@ -13,13 +13,12 @@ X-Core:
 
 ## Evaluation Board
 
-* [Perf-V FPGA Board](http://perfv.org/)
+* [Perf-V FPGA Board](https://rvboards.org/)
 
 ![Perf-V FPGA Board Image](http://perfv.org/images/home/board_intro.png)
 
 ## Support
 
 - QQ group: 806854399
-- [Telegram](https://t.me/joinchat/H9Tj9hAoPX2-exoyJTtXBw)
-- Forum: http://forum.perfv.org/
+- Forum: https://www.rvboards.org/forum/en/
 
